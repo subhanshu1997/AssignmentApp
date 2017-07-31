@@ -1,0 +1,8 @@
+create table student (name varchar(20),
+roll varchar(15) primary key,
+address varchar(20),course varchar(7),
+marks varchar(5),mobile varchar(10));
+
+###################################################
+
+

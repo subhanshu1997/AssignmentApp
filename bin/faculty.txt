@@ -1,0 +1,6 @@
+create table faculty (name varchar(20),
+id varchar(15) primary key,
+address varchar(20),course varchar(7)
+,salary varchar(10),mobile varchar(10));
+
+###################################################
